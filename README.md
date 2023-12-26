@@ -1,3 +1,20 @@
+
+# DESAFIO 2/3 CONCLUÍDO COM SUCESSO! 💛
+Esse desafio tem por objetivo atender a um dos requisitos do Bootcamp DecolaTech 2024, que foi promovido pela parceria da AVANADE com a DIO.
+
+## Estudos utilizados nesse desafio 📝
+Nesse projeto foram utilizados os conhecimentos adquiridos dentro dos estudos de Programação Orientada a Objetos com C#. Foram utilizados os conceitos dos quatro pilares (Abstração, Encapsulamento, Herança e Polimorfismo) na criação de um sistema que listasse comportamentos diferentes para cada tipo de Smartphone (Nokia e Iphone).
+
+
+## 🚀 Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
